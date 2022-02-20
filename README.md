@@ -1,2 +1,0 @@
-# TensorFlow2_Deep_Learning
- Deep_learning_with_tensorFlow
